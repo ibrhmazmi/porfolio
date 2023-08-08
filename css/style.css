@@ -120,7 +120,7 @@
     }
 
     #home {
-        background-image: url('assets/bg.jpg');
+        background-image: url('../assets/bg.jpg');
         background-repeat: no-repeat;
         background-position: top;
         background-size: cover;
@@ -191,7 +191,7 @@
     }
 
     .container-home {
-        background: url('assets/terminal.PNG');
+        background: url('../assets/terminal.PNG');
         opacity: 80%;
         background-repeat: no-repeat;
         background-size: 50%;
@@ -355,7 +355,7 @@
     }
 
     #services {
-        background: url('assets/service.avif');
+        background: url('../assets/service.avif');
         background-attachment: fixed;
         background-repeat: no-repeat;
     }
